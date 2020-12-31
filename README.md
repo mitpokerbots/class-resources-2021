@@ -1,2 +1,2 @@
-# class-materials-2021
-Contains Pokerbots course materials for IAP 2021
+# class-resources-2021
+Contains Pokerbots course resources for IAP 2021
